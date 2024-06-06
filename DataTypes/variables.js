@@ -22,7 +22,7 @@ console.log(num) // => 6
 
 //shortHand operator
 console.log('using short hand operator')
-let number  = 10 
+let number  = 10
 number += 1 //equivalent to number = number + 1 => 11
 console.log(number)
 number -= 1 //equivalent to number = number - 1 => 10
@@ -41,9 +41,5 @@ console.log(year)
 
 
 let nums;
-console.log(nums + 3)
-console.log('fish' * 2)
-
-
-
-
+console.log(nums + 3) // NaN
+console.log('fish' * 2)// NaN

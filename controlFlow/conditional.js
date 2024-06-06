@@ -1,8 +1,7 @@
 if("asalpha".indexOf("saj")){
     console.log("asalpha".indexOf("asaj"))
 }
-else if(2){
-    console.log("1")
+else if(true == 1){
     console.log("asalpha".indexOf("asa"))
 }
 else{
